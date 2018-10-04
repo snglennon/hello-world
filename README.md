@@ -1,2 +1,3 @@
 # hello-world
-hell-world
+Hi Humans
+this is a test
